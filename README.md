@@ -9,8 +9,7 @@
 ### Phần 1: Cài đặt Hệ thống
 
 **Ảnh chụp màn hình danh sách sản phẩm trong Admin:**
-
-![Alt text](Screenshot 2026-04-03 211054.png)
+<img width="1920" height="1020" alt="Screenshot 2026-04-03 211054" src="https://github.com/user-attachments/assets/e62fd4ac-0ace-4d3f-aa81-0f479e552a03" />
 
 ### Phần 2: Khai thác GraphQL API
 
